@@ -1,6 +1,4 @@
-import java.util.Scanner;
-
-public class S01_LinearSearch {
+public class BinarySearch {
     public static void main(String[] args) {
 
         int arr[] = {1,2,4,9,15,24,55,68,80};
