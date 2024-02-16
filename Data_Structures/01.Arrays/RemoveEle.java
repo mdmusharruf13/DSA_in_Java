@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class J03_RemoveEle {
+public class RemoveEle {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         

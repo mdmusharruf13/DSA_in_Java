@@ -1,4 +1,4 @@
-public class K01_Ceiling {
+public class Ceiling {
     public static void main(String[] args) {
         int arr[] = {2,3,5,9,14,16,18};
         // int target = 14;
