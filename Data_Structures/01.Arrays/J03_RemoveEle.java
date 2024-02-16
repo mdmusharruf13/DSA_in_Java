@@ -29,6 +29,7 @@ public class J03_RemoveEle {
         }
         if(pos == -1) {
             System.out.println("element not found");
+            sc.close();
             return;
         }
         
@@ -42,5 +43,6 @@ public class J03_RemoveEle {
             if(arr[i] == 0) break;
             System.out.println(arr[i]);
         }
+        sc.close();
     }
 }
