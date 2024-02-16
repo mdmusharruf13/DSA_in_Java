@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class S01_OccurrenceChar {
+public class OccurrenceChar {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
