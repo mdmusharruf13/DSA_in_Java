@@ -127,16 +127,17 @@ public class BST {
         inorder(root);
         System.out.println();
 
-        // boolean found = search(root, 4);
-        // System.out.println(found);
+        boolean found = search(root, 4);
+        System.out.println(found);
 
-        // delete(root, 4);
-        // inorder(root);
-        // System.out.println();
+        delete(root, 4);
+        inorder(root);
+        System.out.println();
 
-        // printInRange(root, 4, 10);
-        // System.out.println();
+        printInRange(root, 4, 10);
+        System.out.println();
 
+        System.out.println("paths from root to leaf nodes: ");
         Stack<Integer> stack = new Stack<>();
         rootToLeafPath(root, stack);
     }
