@@ -1,0 +1,63 @@
+DSA Roadmap with Java 
+
+1. Java Foundations
+
+📌 Java Syntax and Basic Programming Specifications
+📌 Object-Oriented Principles (Inheritance, Encapsulation, Polymorphism,     Abstraction)
+
+2. Basic Data Structures
+
+📌 Arrays
+📌 Multi-dimensional Arrays
+📌 Strings
+📌 Linked List
+📌 Singly Linked List
+📌 Doubly Linked List
+📌 Stack
+📌 Queue
+📌 Priority Queue
+
+3. Intermediate Data Structures
+
+📌 Trees
+📌 Binary Trees
+📌 Binary Search Trees
+📌 AVL Trees
+📌 Graphs
+📌 Hash Tables
+
+4. Advanced Data Structures
+
+📌 Trie
+📌 Segment Tree
+📌 Fenwick Tree (Binary Indexed Tree)
+
+5. Basic Algorithms
+
+📌 Searching
+📌 Linear Search
+📌 Binary Search
+📌 Sorting
+📌 Bubble Sort
+📌 Quick Sort
+📌 Merge Sort
+
+6. Intermediate Algorithms
+
+📌 Graph Algorithms
+📌 Depth-First Search (DFS)
+📌 Breadth-First Search (BFS)
+📌 Dijkstra’s Algorithm
+📌 Kruskal’s Algorithm
+
+7. Advanced Algorithms
+
+📌 Dynamic Programming
+📌 Greedy Algorithms
+📌 Divide and Conquer
+📌 Backtracking
+
+8. Practice Problems and Real-world Projects
+
+📌 Solve a variety of problems on online platforms like LeetCode, HackerRank.
+📌 Develop projects focusing on implementing the learned concepts.
